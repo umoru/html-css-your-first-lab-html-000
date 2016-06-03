@@ -35,10 +35,4 @@ and hit enter.
 
 If you've followed along, you'll see a success message and your work will automatically be submitted to Learn and saved to your GitHub account. If you then head back to this lesson's page on Learn.co, you'll see a green completion light on the right side of the page and your "Next Lesson" button will turn blue, allowing you to continue on to the next lesson.
 
-<<<<<<< HEAD
-Congratulations — you've just solved your first lab!
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/html-css-your-first-lab'>HTML CSS Your First Lab</a> on Learn.co and start learning to code for free.</p>
-=======
 Congratulations — you've just solved your first lab on Learn!
->>>>>>> origin/matbalez-patch-1
