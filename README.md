@@ -18,7 +18,7 @@ learn open html-css-your-first-lab
 
 This should pull down all of the resources that you need and open up the folder containing the lab for you.
 
-Next, find the file called `my_first_lab.html`. To solve this lab, you'll need to add `<div id="party">WRITE ANYTHING THAT YOU WANT HERE</div>` somewhere between `<body>` and `</body>` in that file.
+Next, find the file called `my_first_lab.html` and open it for editing in the IDE. To solve this lab, you'll need to change the text between `<strong>` and `</strong>` so that instead of saying "NAME" it says your name.
 
 (HINT: You can open this preview this file by right-clicking it and selecting "Preview" if you'd like to take a look at your handiwork.)
 
