@@ -7,9 +7,6 @@
     "npm": "3.x"
   },
   "main": "index.js",
-  "scripts": {
-    "test": "mocha -R mocha-multi --reporter-options nyan=-,json=.results.json"
-  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/learn-co-curriculum/html-css-your-first-lab.git"
