@@ -5,7 +5,7 @@ HTML CSS: Your First Lab!
 
 1. Understand how to use the Learn IDE
 2. Solve your very first lab
-2. Submit your solution using `learn submit` in the IDE
+3. Submit your solution using `learn submit` in the IDE
 
 ## Instructions
 
