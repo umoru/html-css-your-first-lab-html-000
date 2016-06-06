@@ -21,7 +21,7 @@ Next, you'll use the Learn IDE to write your first line of HTML code!
 
 In the IDE's file tree (on the left pane), find the file called `my_first_lab.html` and double click on it to open it.
 
-To solve this lab, you'll need to change the text between `<strong>` and `</strong>` so that instead of saying "NAME" it says your name. Remeber to save the updated file! (Otherwise, the change won't go through). 
+To solve this lab, you'll need to change the text between `<strong>` and `</strong>` so that instead of saying "NAME" it says your name. Remember to save the updated file (otherwise, the change won't go through)! 
 
 (HINT: If you'd like to take a look at your handiwork, you can preview this in your browser by right-clicking the file in the file tree, and selecting "Open in Browser" .)
 
