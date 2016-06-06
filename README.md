@@ -33,6 +33,6 @@ learn submit
 
 and hit enter.
 
-If you've followed along, you'll see a success message and your work will automatically be submitted to Learn and saved to your GitHub account. If you then head back to this lesson's page on Learn.co, you'll see a green completion light on the right side of the page and your "Next Lesson" button will turn blue, allowing you to continue on to the next lesson.
+If you've followed along, you'll see a success message and your work will automatically be submitted to Learn and saved to your GitHub account. If you then head back to this lesson's page on Learn.co, you'll see a green completion light next to "Submitted Pull Request" on the right side of the page. To wrap things up, hit the "I'm Done" button allowing you to continue on to the next lesson.
 
 Congratulations — you've just solved your first lab on Learn!
